@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/Arti/Documents/SmartCard/smartcardproject/SmartCardProject/base-core.jar" sourcepath="/Users/Arti/Downloads/ocf/opencard"/>
+	<classpathentry kind="lib" path="/Users/Arti/Documents/SmartCard/smartcardproject/SmartCardProject/base-opt.jar"/>
+	<classpathentry kind="lib" path="/Users/Arti/Documents/SmartCard/smartcardproject/SmartCardProject/JCOPTerminal.jar"/>
+	<classpathentry kind="lib" path="/Users/Arti/Documents/SmartCard/smartcardproject/SmartCardProject/offcard.jar"/>
+	<classpathentry kind="lib" path="/Users/Arti/Documents/SmartCard/smartcardproject/SmartCardProject/pcsc-wrapper-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Arti/Downloads/tablelayout.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
